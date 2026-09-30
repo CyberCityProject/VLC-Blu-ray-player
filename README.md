@@ -70,7 +70,7 @@ Meant for playing discs you own. An Ultra HD (4K) Blu-ray generally still will n
 - PowerShell 5.1
 - Internet access
 - Administrator rights (files are copied into `Program Files`)
-- `winget`, only if VLC is not already installed
+- VLC installed
 
 ## Usage
 
